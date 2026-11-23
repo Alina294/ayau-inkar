@@ -1,0 +1,8 @@
+{
+  "name": "Orbital Hotel 3D & VR",
+  "description": "Orbital Hotel архитектуралық кешенінің интерактивті 3D моделі, WebXR VR жүйесі, 12 люкс секторды шолу және орбиталық тур брондау платформасы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
